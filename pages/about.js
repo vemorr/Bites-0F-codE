@@ -29,7 +29,7 @@ function about({ topics }) {
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
         I am from Dnepropetrovsk, Ukraine, and
-        I am a Python Junior and Python Nerd
+        I am a Python Junior and C# Lover,
         More at my portfolio.
         </p>
 

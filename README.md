@@ -8,7 +8,7 @@
 
 # Bites-0F-codE Post
 
-1. Go to ``_contents`` and create new file with extension ``.md`` and write everything you need
+1. Go to ``_contents`` and create new file with extension ``.md`` and write everything you need (also requirement that the file name should be like this "BL-100" after 100 you just entering id of blog
 
 2. Save and ready to go 👋
 
